@@ -1,1 +1,3 @@
 frappe
+erpnext
+requests_oauthlib
