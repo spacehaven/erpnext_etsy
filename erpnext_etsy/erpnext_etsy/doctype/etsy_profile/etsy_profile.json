@@ -3,6 +3,7 @@
  "allow_guest_to_view": 0, 
  "allow_import": 0, 
  "allow_rename": 0, 
+ "autoname": "field:etsy_shop_name", 
  "beta": 0, 
  "creation": "2017-12-21 08:31:17.947635", 
  "custom": 0, 
@@ -205,11 +206,11 @@
  "issingle": 0, 
  "istable": 0, 
  "max_attachments": 0, 
- "modified": "2017-12-21 08:31:22.170177", 
+ "modified": "2017-12-21 09:50:11.691635", 
  "modified_by": "Administrator", 
  "module": "ERPNext Etsy", 
  "name": "Etsy Profile", 
- "name_case": "", 
+ "name_case": "Title Case", 
  "owner": "Administrator", 
  "permissions": [
   {
@@ -239,6 +240,7 @@
  "show_name_in_global_search": 0, 
  "sort_field": "modified", 
  "sort_order": "DESC", 
+ "title_field": "etsy_shop_name", 
  "track_changes": 0, 
  "track_seen": 0
 }
